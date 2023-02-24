@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-automation/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-automation/actions/workflows/publish.yml)
+
 learning-automation
 # Learning Automation
 
