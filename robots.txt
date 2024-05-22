@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-automation/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-automation/sitemap.xml
